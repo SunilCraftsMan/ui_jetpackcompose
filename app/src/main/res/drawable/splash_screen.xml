@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background color layer -->
+    <item>
+        <color android:color="@color/white" />
+    </item>
+
+    <!-- Logo drawable layer (centered) -->
+    <item>
+        <bitmap
+            android:src="@drawable/busywork_logo"
+            android:gravity="center" />
+    </item>
+
+</layer-list>
